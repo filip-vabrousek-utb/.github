@@ -1,4 +1,4 @@
-# Výuka · Ing. Filip Vabroušek
+# Výuka · Filip Vabroušek
 
 Fakulta aplikované informatiky, Univerzita Tomáše Bati ve Zlíně
 
